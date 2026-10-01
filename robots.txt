@@ -1,0 +1,5 @@
+User-Agent: *
+Allow: /
+
+Host: https://8hicom.in
+Sitemap: https://8hicom.in/sitemap.xml
